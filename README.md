@@ -14,10 +14,7 @@ The dataset used in the paper is avaiable on https://github.com/stasl0217/KEnS.
 
 ### Run
 
-KG Encoder: python3 KG_encoder/main.py [parameter]
+KG Encoder: python3 KG_encoder/main.py <parameter>
 
-Meta Learner: python3 meta-learner/main.py [parameter]
-
-
-### About
+Meta Learner: python3 meta-learner/main.py <parameter>
 
