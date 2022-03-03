@@ -9,7 +9,7 @@ In Submission
 
 ### Dataset
 
-The dataset used in the paper is avaiable in https://github.com/stasl0217/KEnS.
+The dataset used in the paper is avaiable at https://github.com/stasl0217/KEnS.
 
 
 ### Run
